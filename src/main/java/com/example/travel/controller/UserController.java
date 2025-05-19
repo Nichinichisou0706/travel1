@@ -2,7 +2,9 @@ package com.example.travel.controller;
 
 import com.example.travel.bean.UserBean;
 import com.example.travel.service.UserService;
+/*
 import jdk.nashorn.internal.ir.RuntimeNode;
+ */
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
